@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient( rgb(150, 0, 255), rgb(255, 230, 0) );
+    background: linear-gradient( rgb(255, 148, 253),lightgreen 100% );
 }
 
 h1{
@@ -22,7 +22,7 @@ label{
 }
 
 #camera{
-    border: 5px solid rgb(white);
+    border: 5px double black;
     width: 350px;
     height: 300px;
     margin: auto;
